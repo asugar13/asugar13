@@ -54,5 +54,4 @@ BSc Computer Science & Economics, University of Toronto.
 
 **Python · TypeScript · R · SQL · pandas · scikit-learn · PyTorch · BigQuery · Node.js · Java**
 
-London, UK · [LinkedIn](https://www.linkedin.com/in/asier-ugarteche-perez/) ·
-asier.ugarteche@gmail.com
+London, UK
