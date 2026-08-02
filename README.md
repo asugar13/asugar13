@@ -52,7 +52,7 @@ customer-facing technical role running discovery and proof-of-value engagements 
 enterprise clients across Canada and Latin America, in English, French and Spanish.
 BSc Computer Science & Economics, University of Toronto.
 
-**Python · TypeScript · R · SQL · pandas · scikit-learn · PyTorch · BigQuery · Node.js · Java **
+**Python · TypeScript · R · SQL · pandas · scikit-learn · PyTorch · BigQuery · Node.js · Java**
 
 London, UK · [LinkedIn](https://www.linkedin.com/in/asier-ugarteche-perez/) ·
 asier.ugarteche@gmail.com
